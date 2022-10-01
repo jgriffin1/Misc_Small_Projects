@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=infoPasser()
+comment1.params=a
+comment1.target=void\ setMap(int[][])
+comment2.params=
+comment2.target=int[][]\ getMap()
+comment3.params=a
+comment3.target=void\ setFloorNum(int)
+comment4.params=
+comment4.target=int\ getFloorNum()
+numComments=5

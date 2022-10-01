@@ -1,0 +1,33 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=java.awt.Point\ getPlayerCoordinates(int)
+comment1.params=
+comment1.target=javax.swing.JFrame\ getframe()
+comment10.params=
+comment10.target=void\ hideit()
+comment11.params=
+comment11.target=void\ runGUI()
+comment12.params=e
+comment12.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment13.params=e
+comment13.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment14.params=e
+comment14.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment2.params=
+comment2.target=int[][]\ getMap()
+comment3.params=
+comment3.target=int\ getMapH()
+comment4.params=
+comment4.target=int\ getMapW()
+comment5.params=asdf
+comment5.target=void\ setMap(int[][])
+comment6.params=
+comment6.target=MakeMapGUI()
+comment7.params=y\ x\ block
+comment7.target=void\ changemap(int,\ int,\ int)
+comment8.params=
+comment8.target=void\ setStuff()
+comment9.params=
+comment9.target=void\ showit()
+comment9.text=\r\n\ \ \ \ public\ void\ actionPerformed(ActionEvent\ event){\r\n\ \ \ \ \ \ \ \ int\ newRoll;\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ newRoll\ \=\ (int)(6*Math.random()\ +\ 1);\r\n\ \ \ \ \ \ \ \ if(newRoll\=\=1){\r\n\ \ \ \ \ \ \ \ \ \ \ \ dieFace.setIcon(new\ ImageIcon("die1.gif"));\r\n\ \ \ \ \ \ \ \ }else\ if(newRoll\ \=\=\ 2){\r\n\ \ \ \ \ \ \ \ \ \ \ \ dieFace.setIcon(new\ ImageIcon("die2.gif"));\r\n\ \ \ \ \ \ \ \ }else\ if(newRoll\ \=\=\ 3){\r\n\ \ \ \ \ \ \ \ \ \ \ \ dieFace.setIcon(new\ ImageIcon("die3.gif"));\r\n\ \ \ \ \ \ \ \ }else\ if(newRoll\ \=\=\ 4){\r\n\ \ \ \ \ \ \ \ \ \ \ \ dieFace.setIcon(new\ ImageIcon("die4.gif"));\r\n\ \ \ \ \ \ \ \ }else\ if(newRoll\ \=\=\ 5){\r\n\ \ \ \ \ \ \ \ \ \ \ \ dieFace.setIcon(new\ ImageIcon("die5.gif"));\r\n\ \ \ \ \ \ \ \ }else\ if(newRoll\ \=\=\ 6){\r\n\ \ \ \ \ \ \ \ \ \ \ \ dieFace.setIcon(new\ ImageIcon("die6.gif"));\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ String\ eventName\ \=\ event.getActionCommand();\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ }\r\n
+numComments=15

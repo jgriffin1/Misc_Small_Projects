@@ -1,0 +1,9 @@
+Types of characters:
+            1--wizard,
+                less health, less strengh, more inteligence, quick weapon.. magic?
+            2--warrior
+                more health and stregnth, less ineligence, less aglility
+            3--rogue
+                *coming soon*
+            4--hunter
+                *coming soon*
